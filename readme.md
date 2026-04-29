@@ -13,11 +13,10 @@ lab5/
 
 ## Pobranie Alpine minirootfs
 
-Przed budową obrazu pobierz plik TAR:
+Przed budową obrazu trzeba pobrać plik TAR:
 
 ```bash
 wget https://dl-cdn.alpinelinux.org/alpine/v3.21/releases/x86_64/alpine-minirootfs-3.21.3-x86_64.tar.gz
-# rozpakuj jeśli potrzeba — Docker przyjmuje też .tar.gz
 ```
 
 ## Polecenie budowy obrazu
